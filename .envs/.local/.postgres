@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=pokeapi_crud
+POSTGRES_USER=HQBuLZCeMlINgzoFkWQQrLvKDdKaQndH
+POSTGRES_PASSWORD=SGwthkAjVfJOYQuHkjlwNi7Wu19ZgvzqSXCnrElqHhqcb2vXNKZ7kHtKjcFqMJkC
